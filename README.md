@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithriad" alt="codewithriad" /></a> </p>
 
-- 🔭 I’m currently working on React front-end website. [A Portfolio Website](https://fitness-tracker-inky-five.vercel.app/)
+- 🔭 I’m currently working on React front-end website. [A Portfolio Website](https://riyadkhan.dev/)
 
 - 👯 I've done a full client project. [Tapplix Sass Agency.](https://www.tapplix.tech/)
 
